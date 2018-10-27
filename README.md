@@ -1,2 +1,2 @@
 # hello-world
-my first respiratory on github
+my first repository on github
